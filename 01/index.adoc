@@ -1,1 +1,56 @@
-= HW1 - TBD!
+= HW1 - Web Crawler
+
+== Selected domain
+I chose https://www.manucafe.cz/[*Manucafe*] eshop for this task. Eshop sells many kinds of coffee but also chocolate. They usually give these properties for each coffee: +
+
+* Title
+* Price(1000/500/250/100/50g)
+* Country of origin
+* Variety
+* Altitude
+* Processing
+* Taste
+* BIO
+
+== Crawler implementation
+Input seed for algorithm is homepage of eshop. Every link on page is added into queue, except pictures, links with filter parameter and login. If product page is found, crawler parse it using BeautifulSoup.
+Then the product is added to the queue. When the scan is complete, the result can be saved to the CSV file.
+
+== Output example
+
+|===
+
+|Title |Price(Kč/1000g) |Country |Variety |Altitude |Processing |Taste |BIO
+
+|MEXICO CHAPAS zrnková káva BIO & Fair Trade
+|722
+|Mexiko
+|Caturra
+|1800
+|Mokré
+|Sladká, ovocná a ořechová
+|Ano
+
+|SMETANOVÁ rozpustná káva
+|637
+|Mexiko
+|
+|1350m
+|Mokré
+|Smetana
+|Ne
+
+|FRANCOUZSKÁ VANILKA rozpustná káva
+|637
+|Mexiko
+|
+|1350m
+|Vymrazování
+|Vanilka
+|Ne
+
+|===
+
+
+== Issues
+I hadnt problems with policies, but their webpages dont have good structure for parsing. I had the biggest problem with price extraction.
