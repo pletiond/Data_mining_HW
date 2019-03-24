@@ -1,1 +1,31 @@
-= HW2 - TBD!
+= HW2 - Indexing &amp; Document Retrieval
+
+== Results in average
+
+=== Precision
+
+|==========================
+|      | Euclidean |Cosine
+|Binary| 0.015 | 0.149
+|TF    | 0.107 | 0.129
+|TF-IDF| 0.220 | 0.240
+|==========================
+
+=== Recall
+
+|==========================
+|      | Euclidean |Cosine
+|Binary| 0.021 | 0.221
+|TF    | 0.142 | 0.178
+|TF-IDF| 0.323 | 0.347
+|==========================
+
+
+=== F-measure
+
+|==========================
+|      | Euclidean |Cosine
+|Binary| 0.017 | 0.165
+|TF    | 0.114 | 0.139
+|TF-IDF| 0.242 | 0.263
+|==========================
