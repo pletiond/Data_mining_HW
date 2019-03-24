@@ -29,3 +29,7 @@
 |TF    | 0.114 | 0.139
 |TF-IDF| 0.242 | 0.263
 |==========================
+
+Evaluation was limited to top 10 relevant documents. +
+As we expected cosine similarity measure is better in all cases. +
+Binary representation doesn't have very good results. Pure term frequency is better, but TF-IDF has the best results.
