@@ -89,3 +89,27 @@ First 20 named entities: +
 *Icelandic Sheepdog* +
 
 === Entity classification
+
+First 20 entities classification: +
+
+*Papar* = father +
+*Hafnir* = village +
+*Reykjanes* = small headland +
+*Carbon* = chemical element +
+*Stöðvarfjörður* = village +
+*Garðar Svavarsson* = Norseman +
+*Húsavík* = town +
+*Náttfari* = None +
+*Náttfaravík* = Nordic island country +
+*Ingólfr* = masculine +
+*Irish* = something +
+*Scottish* = something +
+*Icelandic Commonwealth* = state +
+*Greenland* = [ kalaːɬit nunaːt ] +
+*Medieval Warm Period* = Medieval Climate Optimum +
+*Christianity* = religion +
+*Middle* = something +
+*Sturlungs* = year period +
+*Old Covenant* = Moses +
+*Commonwealth* = traditional English term +
+
