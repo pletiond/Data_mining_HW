@@ -113,3 +113,112 @@ First 20 entities classification: +
 *Old Covenant* = Moses +
 *Commonwealth* = traditional English term +
 
+== Comparison
+
+|===
+|nltk-based classification |nltk-wiki| custom-wiki
+
+|Iceland - GPE
+|Iceland - Nordic island country
+|Iceland - Nordic island country
+
+
+|Ísland - PERSON
+|Ísland - Nordic island country
+|Icelandic - something
+
+
+|Nordic - GPE
+|Nordic - something
+|North Atlantic - second largest
+
+
+|North Atlantic - LOCATION
+|North Atlantic - second largest
+|Europe - continent
+
+
+|Europe - GPE
+|Europe - continent
+|Reykjavík - capital
+
+
+|Reykjavík - GPE
+|Reykjavík - capital
+|Gulf Stream - warm
+
+
+|Gulf Stream - ORGANIZATION
+|Gulf Stream - warm
+|Arctic Circle - polar circles
+
+
+|Arctic Circle - ORGANIZATION
+|Arctic Circle - polar circles
+|Landnámabók - Landnáma
+
+
+|Landnámabók - PERSON
+|Landnámabók - Landnáma
+|Ingólfr Arnarson - first permanent Norse settlers
+
+
+|Norwegian - GPE
+|Norwegian - something
+|Norwegians - North Germanic ethnic group native
+
+
+|Ingólfr Arnarson - PERSON
+|Ingólfr Arnarson - first permanent Norse settlers
+|Scandinavians - people
+
+
+|Norwegians - GPE
+|Norwegians - North Germanic ethnic group native
+|Gaelic - something
+
+
+|Gaelic - ORGANIZATION
+|Gaelic - something
+|Althing - Althingi
+
+
+|Kalmar Union - ORGANIZATION
+|Kalmar Union - personal union
+|Kalmar Union - personal union
+
+
+|Norway - GPE
+|Norway - Nordic country
+|Norway - Nordic country
+
+
+|Denmark - PERSON
+|Denmark - [ ˈdanmɑɡ ]
+|Denmark - [ ˈdanmɑɡ ]
+
+
+|Sweden - GPE
+|Sweden - Kingdom
+|Sweden - Kingdom
+
+
+|Danish - GPE
+|Danish - something
+|Danish - something
+
+
+|Lutheranism - GPE
+|Lutheranism - major branch
+|Lutheranism - major branch
+
+
+|French - GPE
+|French - something
+|Revolution - fundamental
+
+
+|===
+
+None of the classifications gives ideal results. I believe that if I improved the classification with wikipedia, I would get the best results. +
+Both entity recognition has a problem with adjectives, such as "Nordic".
