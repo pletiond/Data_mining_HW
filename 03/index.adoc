@@ -1,1 +1,91 @@
-= HW3 - TBD!
+= HW3 - Text Mininig
+
+== Data description
+
+
+== Results
+
+=== POS
+
+POS tagging of one sentence from text. +
+*The* - DT +
+*capital* - NN +
+*and* - CC +
+*largest* - JJS +
+*city* - NN +
+*is* - VBZ +
+*Reykjavík* - NNP +
+*with* - IN +
+*Reykjavík* - NNP +
+*and* - CC +
+*the* - DT +
+*surrounding* - VBG +
+*areas* - NNS +
+*in* - IN +
+*the* - DT +
+*southwest* - NN +
+*of* - IN +
+*the* - DT +
+*country* - NN +
+*being* - VBG +
+*home* - VBN +
+*to* - TO +
+*over* - IN +
+*two-thirds* - NNS +
+*of* - IN +
+*the* - DT +
+*population* - NN +
+*.* - . +
+
+
+=== NER based on ne_chunk
+
+First 20 named entities:
+
+*Iceland* - GPE +
+*Ísland* - PERSON +
+*Nordic* - GPE +
+*North Atlantic* - LOCATION +
+*Europe* - GPE +
+*Reykjavík* - GPE +
+*Gulf Stream* - ORGANIZATION +
+*Arctic Circle* - ORGANIZATION +
+*Landnámabók* - PERSON +
+*Norwegian* - GPE +
+*Ingólfr Arnarson* - PERSON +
+*Norwegians* - GPE +
+*Gaelic* - ORGANIZATION +
+*Kalmar Union* - ORGANIZATION +
+*Norway* - GPE +
+*Denmark* - PERSON +
+*Sweden* - GPE +
+*Danish* - GPE +
+*Lutheranism* - GPE +
+*French* - GPE +
+*Napoleonic Wars* - ORGANIZATION +
+
+=== Custom NER
+
+First 20 named entities: +
+*Middle Ages* +
+*Icelandic Sign Language* +
+*Financial Supervisory Authority of Iceland* +
+*Guardian* +
+*Icelandic Modern Media Initiative* +
+*Selma Ježková* +
+*Kingdom of Iceland* +
+*Laxdæla* +
+*United Kingdom* +
+*Sweden* +
+*Gini* +
+*Age* +
+*King* +
+*Kárahnjúkavirkjun* +
+*Norwegians—it* +
+*HDI* +
+*Greenland* +
+*Iceland Air Defence System* +
+*Kingdom of Norway* +
+*Icelandic Sheepdog* +
+
+=== Entity classification
