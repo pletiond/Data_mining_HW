@@ -2,6 +2,8 @@
 
 == Data description
 
+I chose an article about https://en.wikipedia.org/wiki/Iceland[Iceland] from Wikipedia, which contains 528 sentences. +
+The reason was to test algorithms on more difficult text, which includes Icelandic words and characters.
 
 == Results
 
