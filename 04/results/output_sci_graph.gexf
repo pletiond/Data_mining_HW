@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>19/04/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Leslie Howard" label="Leslie Howard" />
+      <node id="John Nettleton" label="John Nettleton" />
+      <node id="John Hudson" label="John Hudson" />
+      <node id="Ray Milland" label="Ray Milland" />
+      <node id="Ric Marlowe" label="Ric Marlowe" />
+      <node id="Pat Priest" label="Pat Priest" />
+      <node id="George C. Scott" label="George C. Scott" />
+      <node id="Boris Karloff" label="Boris Karloff" />
+      <node id="Stanley Ridges" label="Stanley Ridges" />
+      <node id="Cary Grant" label="Cary Grant" />
+      <node id="Julia Ormond" label="Julia Ormond" />
+      <node id="Eddie Murphy" label="Eddie Murphy" />
+      <node id="Lionel Atwill" label="Lionel Atwill" />
+      <node id="Annabelle Sciorra" label="Annabelle Sciorra" />
+      <node id="Robert Cornthwaite" label="Robert Cornthwaite" />
+      <node id="Ronald Reagan" label="Ronald Reagan" />
+      <node id="Bela Lugosi" label="Bela Lugosi" />
+      <node id="Paul Muni" label="Paul Muni" />
+      <node id="Michael Anthony" label="Michael Anthony" />
+      <node id="Harold Kaskel" label="Harold Kaskel" />
+      <node id="Paul Lambert" label="Paul Lambert" />
+      <node id="Trevor Howard" label="Trevor Howard" />
+      <node id="Omar Sharif" label="Omar Sharif" />
+      <node id="Anthony Hopkins" label="Anthony Hopkins" />
+      <node id="Simon Chandler" label="Simon Chandler" />
+      <node id="Robert Armstrong" label="Robert Armstrong" />
+      <node id="Lewis Stone" label="Lewis Stone" />
+      <node id="Edward Everett Horton" label="Edward Everett Horton" />
+      <node id="s a" label="s a" />
+      <node id="Kathryn Harrold" label="Kathryn Harrold" />
+      <node id="Rudolf KleinRogge" label="Rudolf KleinRogge" />
+      <node id="Richard Dreyfuss" label="Richard Dreyfuss" />
+      <node id="Francois Truffaut" label="Francois Truffaut" />
+      <node id="Sean Connery" label="Sean Connery" />
+      <node id="Henry Stephenson" label="Henry Stephenson" />
+      <node id="Paul Lukas" label="Paul Lukas" />
+      <node id="Rex Harrison" label="Rex Harrison" />
+      <node id="Gabrielle Anwar" label="Gabrielle Anwar" />
+      <node id="Zakes Mokae" label="Zakes Mokae" />
+      <node id="Mimi Sorvino" label="Mimi Sorvino" />
+      <node id="James Stewart" label="James Stewart" />
+      <node id="John Stuart" label="John Stuart" />
+      <node id="Reinhold Schunzel" label="Reinhold Schunzel" />
+      <node id="Simon Oakland" label="Simon Oakland" />
+      <node id="Ludwig Donath" label="Ludwig Donath" />
+      <node id="Arnold Moss" label="Arnold Moss" />
+      <node id="Alec Baldwin" label="Alec Baldwin" />
+      <node id="Alan Arkin" label="Alan Arkin" />
+      <node id="Billy Crystal" label="Billy Crystal" />
+      <node id="Fritz Feld" label="Fritz Feld" />
+      <node id="Gary Cooper" label="Gary Cooper" />
+      <node id="Oscar Homolka" label="Oscar Homolka" />
+      <node id="Henry Travers" label="Henry Travers" />
+      <node id="S.Z. Sakall" label="S.Z. Sakall" />
+      <node id="Leonid Kinskey" label="Leonid Kinskey" />
+      <node id="Stanley Leavitt" label="Stanley Leavitt" />
+      <node id="Don Ameche" label="Don Ameche" />
+      <node id="Dan Ackroyd" label="Dan Ackroyd" />
+      <node id="Shirley MacLaine" label="Shirley MacLaine" />
+      <node id="James Coburn" label="James Coburn" />
+      <node id="Bill Paxton" label="Bill Paxton" />
+      <node id="Cary Elwes" label="Cary Elwes" />
+      <node id="Kirsty Alley" label="Kirsty Alley" />
+      <node id="Michael Rennie" label="Michael Rennie" />
+      <node id="Robert Picard" label="Robert Picard" />
+      <node id="Christopher Lee" label="Christopher Lee" />
+      <node id="Fiona Shaw" label="Fiona Shaw" />
+      <node id="Christopher Plummer" label="Christopher Plummer" />
+      <node id="Pierre Blanchard" label="Pierre Blanchard" />
+      <node id="Ernest Thesiger" label="Ernest Thesiger" />
+      <node id="Leonard Mudie" label="Leonard Mudie" />
+      <node id="Edward VanSloan" label="Edward VanSloan" />
+      <node id="Hugh Grant" label="Hugh Grant" />
+      <node id="Howard Morris" label="Howard Morris" />
+      <node id="John Hurt" label="John Hurt" />
+      <node id="Lena Olin" label="Lena Olin" />
+      <node id="David Niven" label="David Niven" />
+      <node id="Jack Mason" label="Jack Mason" />
+      <node id="Rossano Brazzi" label="Rossano Brazzi" />
+      <node id="Richard Burton" label="Richard Burton" />
+      <node id="Art Garfunkel" label="Art Garfunkel" />
+      <node id="Henry Fonda" label="Henry Fonda" />
+      <node id="John King" label="John King" />
+      <node id="Groucho Marx" label="Groucho Marx" />
+      <node id="Robert Greig" label="Robert Greig" />
+      <node id="Laurence Harvey" label="Laurence Harvey" />
+      <node id="Brian Deacon" label="Brian Deacon" />
+      <node id="Eric Deacon" label="Eric Deacon" />
+      <node id="Daniel DayLewis" label="Daniel DayLewis" />
+      <node id="Henry Gibson" label="Henry Gibson" />
+      <node id="Dirk Bogarde" label="Dirk Bogarde" />
+      <node id="Richard Pryor" label="Richard Pryor" />
+      <node id="Pierce Brosnan" label="Pierce Brosnan" />
+      <node id="Russ Wheeler" label="Russ Wheeler" />
+      <node id="Jeff Goldblum" label="Jeff Goldblum" />
+      <node id="Brent Spiner" label="Brent Spiner" />
+      <node id="Ralph Bellamy" label="Ralph Bellamy" />
+      <node id="Charles Grodin" label="Charles Grodin" />
+      <node id="Harrison Ford" label="Harrison Ford" />
+      <node id="Fred MacMurray" label="Fred MacMurray" />
+      <node id="Donald Sutherland" label="Donald Sutherland" />
+      <node id="Edmund Ryan" label="Edmund Ryan" />
+      <node id="Susan Hayward" label="Susan Hayward" />
+      <node id="Barbara Barrie" label="Barbara Barrie" />
+      <node id="Basil Rathbone" label="Basil Rathbone" />
+      <node id="Werner Krauss" label="Werner Krauss" />
+      <node id="Henry Daniell" label="Henry Daniell" />
+      <node id="Jodie Foster" label="Jodie Foster" />
+      <node id="Clive Brook" label="Clive Brook" />
+      <node id="John Malkovich" label="John Malkovich" />
+      <node id="William Sylvester" label="William Sylvester" />
+      <node id="Carl Duering" label="Carl Duering" />
+      <node id="William Powell" label="William Powell" />
+      <node id="Vincent Price" label="Vincent Price" />
+      <node id="Robert Fleming" label="Robert Fleming" />
+      <node id="Charles Winninger" label="Charles Winninger" />
+      <node id="Woody Allen" label="Woody Allen" />
+      <node id="Tony Roberts" label="Tony Roberts" />
+      <node id="Mia Farrow" label="Mia Farrow" />
+      <node id="Kenneth Welsh" label="Kenneth Welsh" />
+      <node id="Marin Bergman" label="Marin Bergman" />
+      <node id="Michael Sharret" label="Michael Sharret" />
+      <node id="Jason Miller" label="Jason Miller" />
+      <node id="Bernard Wicki" label="Bernard Wicki" />
+      <node id="Donald Crisp" label="Donald Crisp" />
+    </nodes>
+    <edges>
+      <edge id="0" source="George C. Scott" target="George C. Scott" />
+      <edge id="1" source="Boris Karloff" target="Stanley Ridges" />
+      <edge id="2" source="Robert Cornthwaite" target="Ronald Reagan" />
+      <edge id="3" source="Michael Anthony" target="Harold Kaskel" />
+      <edge id="4" source="Michael Anthony" target="Paul Lambert" />
+      <edge id="5" source="Harold Kaskel" target="Paul Lambert" />
+      <edge id="6" source="Edward Everett Horton" target="Edward Everett Horton" />
+      <edge id="7" source="Paul Lukas" target="Rossano Brazzi" />
+      <edge id="8" source="Gary Cooper" target="Oscar Homolka" />
+      <edge id="9" source="Gary Cooper" target="Henry Travers" />
+      <edge id="10" source="Gary Cooper" target="S.Z. Sakall" />
+      <edge id="11" source="Gary Cooper" target="Leonid Kinskey" />
+      <edge id="12" source="Oscar Homolka" target="Henry Travers" />
+      <edge id="13" source="Oscar Homolka" target="S.Z. Sakall" />
+      <edge id="14" source="Oscar Homolka" target="Leonid Kinskey" />
+      <edge id="15" source="Henry Travers" target="S.Z. Sakall" />
+      <edge id="16" source="Henry Travers" target="Leonid Kinskey" />
+      <edge id="17" source="S.Z. Sakall" target="Leonid Kinskey" />
+      <edge id="18" source="Shirley MacLaine" target="James Coburn" />
+      <edge id="19" source="Bill Paxton" target="Cary Elwes" />
+      <edge id="20" source="Robert Picard" target="Christopher Lee" />
+      <edge id="21" source="Leonard Mudie" target="Edward VanSloan" />
+      <edge id="22" source="Groucho Marx" target="Robert Greig" />
+      <edge id="23" source="Brian Deacon" target="Eric Deacon" />
+      <edge id="24" source="Jeff Goldblum" target="Brent Spiner" />
+      <edge id="25" source="Jeff Goldblum" target="Donald Sutherland" />
+      <edge id="26" source="Ralph Bellamy" target="Charles Grodin" />
+      <edge id="27" source="Woody Allen" target="Tony Roberts" />
+    </edges>
+  </graph>
+</gexf>
