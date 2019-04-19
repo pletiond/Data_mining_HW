@@ -1,1 +1,4 @@
-= HW4 - TBD!
+= HW4 - Social Network Analysis
+
+# Solution
+All information is in https://gitlab.fit.cvut.cz/MI-DDW/B182/cs/pletiond/blob/master/04/src/hw4.ipynb[Jupyter notebook].
